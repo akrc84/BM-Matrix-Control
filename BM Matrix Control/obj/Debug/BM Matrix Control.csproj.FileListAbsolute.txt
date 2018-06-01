@@ -1,0 +1,12 @@
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\bin\Debug\BM Matrix Control.exe.config
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\bin\Debug\BM Matrix Control.exe
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\bin\Debug\BM Matrix Control.pdb
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.csprojResolveAssemblyReference.cache
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\obj\Debug\BM_Matrix_Control.Form1.resources
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\obj\Debug\BM_Matrix_Control.Properties.Resources.resources
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.csproj.GenerateResource.Cache
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.exe
+C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.pdb
+C:\Users\Aleš\Documents\šiht\BM Matrix Control\BM Matrix Control\bin\Debug\BM Matrix Control.exe.config
+C:\Users\Aleš\Documents\šiht\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.exe
+C:\Users\Aleš\Documents\šiht\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.pdb
