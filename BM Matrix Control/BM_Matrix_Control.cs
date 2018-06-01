@@ -11,9 +11,9 @@ using System.Net.Sockets;
 
 namespace BM_Matrix_Control
 {
-    public partial class Form1 : Form
+    public partial class BM_Matrix_Control : Form
     {
-        public Form1()
+        public BM_Matrix_Control()
         {
             InitializeComponent();
         }
@@ -55,6 +55,11 @@ namespace BM_Matrix_Control
             {
                 Console.WriteLine("SocketException: {0}", e);
             }
+
+        }
+
+        private void BM_Matrix_Control_Load(object sender, EventArgs e)
+        {
 
         }
     }

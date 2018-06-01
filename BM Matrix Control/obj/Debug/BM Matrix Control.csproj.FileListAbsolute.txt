@@ -10,3 +10,12 @@ C:\Users\ales\Documents\šiht\ASI matrica\BM Matrix Control\BM Matrix Control\ob
 C:\Users\Aleš\Documents\šiht\BM Matrix Control\BM Matrix Control\bin\Debug\BM Matrix Control.exe.config
 C:\Users\Aleš\Documents\šiht\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.exe
 C:\Users\Aleš\Documents\šiht\BM Matrix Control\BM Matrix Control\obj\Debug\BM Matrix Control.pdb
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\bin\Debug\BM Matrix Control.exe.config
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\obj\Debug\BM Matrix Control.exe
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\obj\Debug\BM Matrix Control.pdb
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\bin\Debug\BM Matrix Control.exe
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\bin\Debug\BM Matrix Control.pdb
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\obj\Debug\BM Matrix Control.csprojResolveAssemblyReference.cache
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\obj\Debug\BM_Matrix_Control.BM_Matrix_Control.resources
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\obj\Debug\BM_Matrix_Control.Properties.Resources.resources
+C:\Users\Aleš\Documents\GitHub\BM-Matrix-Control\BM Matrix Control\obj\Debug\BM Matrix Control.csproj.GenerateResource.Cache

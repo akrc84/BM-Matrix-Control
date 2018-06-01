@@ -1,6 +1,6 @@
 ﻿namespace BM_Matrix_Control
 {
-    partial class Form1
+    partial class BM_Matrix_Control
     {
         /// <summary>
         /// Required designer variable.
@@ -101,7 +101,7 @@
             this.textBox1.Size = new System.Drawing.Size(688, 20);
             this.textBox1.TabIndex = 4;
             // 
-            // Form1
+            // BM_Matrix_Control
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -110,8 +110,9 @@
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "BM_Matrix_Control";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.BM_Matrix_Control_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
